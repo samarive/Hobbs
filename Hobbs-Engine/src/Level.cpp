@@ -1,6 +1,5 @@
 #include "Level.hpp"
 #include <fstream>
-#include <iostream>
 
 Level::Level():cameraView(true)
 {

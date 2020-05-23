@@ -1,5 +1,4 @@
 #include "Fireball.hpp"
-#include <iostream>
 
 Fireball::Fireball(int x,int y,int dirX,int dirY):Animal::Animal(x,y,32,16)
 {

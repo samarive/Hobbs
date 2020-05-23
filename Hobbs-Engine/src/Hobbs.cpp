@@ -1,5 +1,4 @@
 #include "Hobbs.hpp"
-#include <iostream>
 
 Hobbs::Hobbs(int x,int y):Animal::Animal(x,y,32,32),fireball(0),dashFuel(0),dashing(false),speed(5),dashLoad(100),dashLenght (10)
 {
